@@ -1,4 +1,4 @@
-# TRANSFORM-X — Enterprise AI Content Transformation Engine
+# OMNI TRANSFORM — Enterprise AI Content Transformation Engine
 
 React + Three.js web studio that turns one source brief into multiple audience-specific communication deliverables: video package, LinkedIn post, Twitter/X thread, advisory, infographic, executive summary, and presentation deck.
 
